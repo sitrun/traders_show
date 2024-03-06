@@ -1,0 +1,27 @@
+{
+  "Name": "Имя",
+  "Password": "Пароль",
+  "Confirm Password": "Повторить пароль",
+  "Already registered?": "Войти в аккаунт",
+  "Remember me": "Запомнить меня",
+  "Forgot your password?": "Забыли пароль?",
+  "Repeat reset password email": "Повторно запросить email",
+  "Log in": "Авторизоваться",
+  "Sign in": "Войти в аккаунт",
+  "Reset Password": "Сбросить пароль",
+  "Regards": "С Уважением",
+  "Hello!": "Доброго времени!",
+  "Saved.": "Пароль успешно сохранен",
+
+
+  "Reset Password Notification": "Уведомление о сбросе пароля",
+  "Are you want reset password by email?": "Хотите сбросить пароль через email?",
+
+  "This password reset link will expire in :count minutes.": "Эта ссылка будет действовать :count мин.",
+  "If you did not request a password reset, no further action is required.": "Если вы не запрашивали сброс пароля, то проигнорируйте это письмо.",
+  "You are receiving this email because we received a password reset request for your account.": "Вы получили это письмо, потому что был запрошен сброс пароля от вашего аккаунта",
+
+
+  "Register": "Зарегистрироваться"
+
+}

@@ -1,0 +1,15 @@
+/*@tailwind base;*/
+/*@tailwind components;*/
+/*@tailwind utilities;*/
+
+.error-message{
+    color: red;
+}
+
+body{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    color: #3C3C3C;
+    text-decoration: none;
+}

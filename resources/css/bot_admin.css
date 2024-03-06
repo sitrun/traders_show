@@ -1,0 +1,27 @@
+/*@tailwind base;*/
+/*@tailwind components;*/
+/*@tailwind utilities;*/
+
+.error-message{
+    color: red;
+}
+
+body{
+    font-family: 'Helvetica', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: #3C3C3C;
+    text-decoration: none;
+}
+
+.m_wrap{
+    margin: 1rem;
+}
+.tab-content{
+    padding-top: 1rem;
+}
+
+
+.view_result td .btn{
+    margin: 0.5rem;
+}
